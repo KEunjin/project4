@@ -1,0 +1,1 @@
+web: gunicorn CRYPTO-PROJECT-MASTER.wsgi --log-file -
